@@ -1,0 +1,14 @@
+{
+    "rowNum": 17,
+    "colNum": 20,
+    "weight": "checkered",
+    "entrances": [[7,-1]],
+    "exits": [[-1,4]],
+    "generator": "recur",
+    "solver": "dijkstra",
+    "solverEntranceIndex": 0,
+    "visualise": true,
+    "mazeFromFile": false,
+    "fileOutput": "sampleTaskA-recGen&dijSolver-checkered1.png"
+
+}
